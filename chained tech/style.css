@@ -159,7 +159,7 @@ section .title::after{
 .home{
     display: flex;
     /* background-color: #2F2E41; */
-    background: url("/images/projects.png") no-repeat center;
+    background: url("images/projects.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
